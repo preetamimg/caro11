@@ -4,7 +4,7 @@
       <div class="comman_section">
          <div class="container">
             <div class="row">
-               <div class="col-md-12">
+               <div class="col-md-12 pt-5">
                <div class="section_title text-start mb-5">
                
                      <!-- <span class="">Caro11</span> -->
@@ -14,7 +14,7 @@
             </div>
             <div class="row">
             <div class="col-lg-12 text-dark">
-               <h5 class="fs-sm-18 fs-18 font-weight-bold text-primary">Deadline &amp; Leg</h5>
+               <h5 class="fs-sm-18 fs-18 font-weight-bold text-primary"> <strong>Deadline &amp; Leg</strong> </h5>
                <p class="fs-sm-14 fs-13"> <b>Caro11</b>  is a Game of Skill
                   <b>Caro11</b> is an online game that involves selection of and competition among virtual teams for points. These points can be redeemed in prizes, including money. However, when cash for stakes is involved, a <b>Caro11</b> game or sport is required to comply with additional legal compliances. <b>Caro11</b> is classed as a game of <b>Caro11</b>, rather than chance. The Supreme Court of India has explained <b>Caro11</b> in terms of “superior knowledge, training, attention, experience and adroitness…
                </p>

@@ -14,7 +14,7 @@
                </div>
             </div>
             <div class="col-md-6 text-center">
-               <img class="hero_center_img" src="<?php echo SCRIPT_ROOT ?>assets/img/mobilescreenCaro11.png" alt="">
+               <img class="hero_center_img" src="<?php echo SCRIPT_ROOT ?>assets/img/heroImg.png" alt="">
             </div>
          </div>
       </div>
@@ -70,7 +70,7 @@
          <div class="row align-items-center">
             <div class="col-lg-6 col-md-12 col-12 mb-lg-0 mb-md-5 mb-4">
                <div class="feature-img">
-                  <img src="<?php echo SCRIPT_ROOT ?>assets/img/feature.png" alt="feature-image" class="img-fluid">
+                  <img src="<?php echo SCRIPT_ROOT ?>assets/img/howtoplaycoar11.svg" alt="feature-image" class="img-fluid">
                </div>
             </div>
             <div class="col-lg-6 col-md-12 col-12 ">
@@ -377,7 +377,7 @@
             </div>
             <div class="col-lg-6 col-md-12 col-12 mb-lg-0 mb-md-5 mb-4">
                <div class="faq-img">
-                  <img src="<?php echo SCRIPT_ROOT ?>assets/img/faq.png" class="img-fluid" alt="faq image">
+                  <img src="<?php echo SCRIPT_ROOT ?>assets/img/faq.svg" class="img-fluid" alt="faq image">
                </div>
             </div>
          </div>

@@ -26,7 +26,7 @@
             <div class="footer_box">
                <h2 class="box_head">Support</h2> 
                <div class="links_footer">
-                  <a class="" href="javascript:;"><strong>Email: </strong> dummy@gmail.com</a>
+                  <a class="" href="javascript:;"><strong>Email: </strong>caro11@gmail.com</a>
                   <a href="javascript:;"><strong>Address: </strong> 7066 El Cajon Blvd, San Diego, CA 92115</a>
                </div>
             </div>
