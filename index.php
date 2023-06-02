@@ -14,7 +14,7 @@
                </div>
             </div>
             <div class="col-md-6 text-center">
-               <img class="hero_center_img" src="<?php echo SCRIPT_ROOT ?>assets/img/heroImg.png" alt="">
+               <img class="hero_center_img" src="<?php echo SCRIPT_ROOT ?>assets/img/heroImg.svg" alt="">
             </div>
          </div>
       </div>
