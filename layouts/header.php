@@ -20,9 +20,12 @@
                 </div>
                 <div class="header_nav">
                     <ul class="list-unstyled mb-0">
-                        <li><a href="index.php#hero">Home</a></li>
+                        <!-- <li><a href="index.php#hero">Home</a></li>
                         <li><a href="index.php#about">About Us</a></li>
-                        <li><a href="index.php#how-to-play">How To Play</a></li>
+                        <li><a href="index.php#how-to-play">How To Play</a></li> -->
+                        <li><a href="<?php echo SCRIPT_ROOT ?>">Home</a></li>
+                        <li><a href="<?php echo SCRIPT_ROOT ?>about-us">About Us</a></li>
+                        <li><a href="<?php echo SCRIPT_ROOT ?>how-to-play">How To Play</a></li>
                     </ul>
                     <a class="comman_button shadow" href="javascript:;"><i class="fab fa-android me-2"></i>Download App</a>
                 </div>
