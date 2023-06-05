@@ -5,7 +5,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12 pt-5">
-                  <div class="section_title text-start mb-5">
+                  <div class="section_title text-center mb-5">
                   
                      <!-- <span class="">Caro11</span> -->
                      <h2>How To Play</h2>

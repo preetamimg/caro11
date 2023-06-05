@@ -19,6 +19,7 @@
                   <a href="<?php echo SCRIPT_ROOT ?>privacy-policy"><i class="fal fa-bahai me-1"></i>Privacy Policy</a>
                   <a href="<?php echo SCRIPT_ROOT ?>refund-policy"><i class="fal fa-bahai me-1"></i>Refund Policy</a>
                   <a href="<?php echo SCRIPT_ROOT ?>terms-conditions"><i class="fal fa-bahai me-1"></i>Terms & Conditions</a>
+                  <a href="<?php echo SCRIPT_ROOT ?>responsible-gaming"><i class="fal fa-bahai me-1"></i>Responsible-Gaming</a>
                </div>
             </div>
          </div>
@@ -26,7 +27,7 @@
             <div class="footer_box">
                <h2 class="box_head">Support</h2> 
                <div class="links_footer">
-                  <a class="" href="javascript:;"><strong>Email: </strong>caro11@gmail.com</a>
+                  <a class="" href="javascript:;"><strong>Email: </strong>support@Caro11.com</a>
                   <a href="javascript:;"><strong>Address: </strong> 7066 El Cajon Blvd, San Diego, CA 92115</a>
                </div>
             </div>

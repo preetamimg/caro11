@@ -5,7 +5,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12 pt-5">
-               <div class="section_title text-start mb-5">
+               <div class="section_title text-center mb-5">
                
                      <!-- <span class="">Caro11</span> -->
                      <h2>Privacy Policy</h2>
@@ -225,7 +225,7 @@
                      &nbsp;<br>
                      Any questions or clarifications with respect to this Policy or any complaints, comments, concerns
                      or feedback can be sent via mail to <strong><b>Caro11</b></strong> at:
-                     info.Caro11@gmail.com</span></span><br>
+                     info.support@Caro11.com</span></span><br>
                      &nbsp;
                   </div>
                </div>
