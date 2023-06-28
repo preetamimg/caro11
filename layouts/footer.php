@@ -17,6 +17,7 @@
                <div class="links_footer">
                   <a href="<?php echo SCRIPT_ROOT ?>fairplay"><i class="fal fa-bahai me-1"></i>Fairplay</a>
                   <a href="<?php echo SCRIPT_ROOT ?>privacy-policy"><i class="fal fa-bahai me-1"></i>Privacy Policy</a>
+                  <a href="<?php echo SCRIPT_ROOT ?>refer-earn"><i class="fal fa-bahai me-1"></i>Refer & Earn</a>
                   <a href="<?php echo SCRIPT_ROOT ?>refund-policy"><i class="fal fa-bahai me-1"></i>Refund Policy</a>
                   <a href="<?php echo SCRIPT_ROOT ?>terms-conditions"><i class="fal fa-bahai me-1"></i>Terms & Conditions</a>
                   <a href="<?php echo SCRIPT_ROOT ?>responsible-gaming"><i class="fal fa-bahai me-1"></i>Responsible-Gaming</a>
@@ -28,7 +29,7 @@
                <h2 class="box_head">Support</h2> 
                <div class="links_footer">
                   <a class="" href="javascript:;"><strong>Email: </strong>support@Caro11.com</a>
-                  <a href="javascript:;"><strong>Address: </strong> 7066 El Cajon Blvd, San Diego, CA 92115</a>
+                  <a href="javascript:;"><strong>Address: </strong> Oryx gaming services LLC UAE</a>
                </div>
             </div>
          </div> 

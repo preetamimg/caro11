@@ -9,7 +9,7 @@
                <div class="hero_content text-md-start text-center">
                   <span>#Caro11</span>
                   <h1>The game of <br><span>gentlemen </span></h1>
-                  <p>Caro11 management platform for cricket operating to engage cricket fans to have more fun out of the Game of Cricket. This indeed a platform that boosts the passion of every cricket fans all over the world.</p>
+                  <p>Revolutionizing Fantasy Cricket in the Web 3.0 Era - Play, Compete, Challenge, and Win with International Fantasy Cricket Players to Earn CARO Crypto Tokens and Unleash Unlimited Fun!"</p>
                   <a class="comman_button shadow ms-0" href="javascript:;"><i class="fab fa-android me-2"></i>Download App</a>
                </div>
             </div>
@@ -31,7 +31,7 @@
                   <i class="far fa-tachometer-alt-slowest"></i>
                   </span>
                   <h2>Our Mission :</h2>
-                  <p>Constantly optimizing the gaming interface to deliver amazing online user experience.</p>
+                  <p>Empowering Global Players Unleashing the Power of Fantasy Gaming with a Next-Level Web 3.0 Fantasy Gaming Experience</p>
                   <div class="line"></div>
                </div>
             </div>
@@ -41,7 +41,7 @@
                   <i class="far fa-eye"></i>
                   </span>
                   <h2>OUR VISION :</h2>
-                  <p>To be the #No. 1 Caro11 sports application in India with a substantially large user-base.</p>
+                  <p>To be the market leader in web 3.0 fantasy gaming industry by bringing innovative free to play concept in the industry.</p>
                   <div class="line"></div>
                </div>
             </div>
@@ -51,7 +51,7 @@
                   <i class="far fa-file-alt"></i>
                   </span>
                   <h2>OUR PLAN :</h2>
-                  <p>Rewarding a player’s passion and let them feel the aroma & flavour of real-time sports.</p>
+                  <p>Rewarding a players passion to play fantasy games and sharing a benefits for building a strong fantasy gaming community</p>
                   <div class="line"></div>
                </div>
             </div>
@@ -115,9 +115,9 @@
                            <div class="feature-box text-md-start text-center step-4">
                               <span>Step 04</span>
                               <i class="far fa-trophy"></i>
-                              <h5>WIN REAL MONEY</h5>
+                              <h5>WIN REAL REWARDS</h5>
                               <p>
-                                 Get Your Winning Amount Instantly In Your PAYTM Or Bank Accounts.
+                              Get your Winning reward Instant withdraw all around the world.
                               </p>
                            </div>
                         </div>
@@ -270,15 +270,14 @@
                            <button class="btn" type="button" data-bs-toggle="collapse"
                               data-bs-target="#collapseOne" aria-expanded="true"
                               aria-controls="collapseOne">
-                           I didn’t receive any OTP/Code, what should I do?
+                              How do I refer and earn on the CARO11 app?
                            </button>
                         </h4>
                      </div>
                      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                         data-parent="#accordionExample">
                         <div class="card-body">
-                           Sometimes it may take some time to receive OTP/Code. You should wait 5-15 minute. If you
-                           didn’t receive the OTP/Code in this time, you should try again.
+                        To refer and earn on the CARO11 app, participate in the Super7 affiliate program. Personally refer 7 users, and each referral will unlock a level of your affiliate earnings. You will earn 1% of the gaming entry fees from players in your community team up to the 7th level.
                         </div>
                      </div>
                   </div>
@@ -288,15 +287,14 @@
                            <button class="btn collapsed" type="button" data-bs-toggle="collapse"
                               data-bs-target="#collapseTwo" aria-expanded="false"
                               aria-controls="collapseTwo">
-                           Why I am not seeing any match/contest? 
+                              How do I earn earnings from the 7 levels?
                            </button>
                         </h4>
                      </div>
                      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                         data-parent="#accordionExample">
                         <div class="card-body">
-                           If there is no upcoming match which we cover, then there will be no match and contest in
-                           Caro11.
+                        To earn earnings from the 7 levels, you need to personally refer 7 users. Each referral will unlock a level of your affiliate earnings, allowing you to earn 1% of the gaming entry fees from players in your community team up to the 7th level. For example, the 1st user you refer will be on the 1st level, the 2nd user on the 2nd level, and so on until the 7th user on the 7th level.
                         </div>
                      </div>
                   </div>
@@ -306,15 +304,14 @@
                            <button class="btn collapsed" type="button" data-bs-toggle="collapse"
                               data-bs-target="#collapseThree" aria-expanded="false"
                               aria-controls="collapseThree">
-                           If there is no upcoming match which we cover.
+                              Where can I view my affiliate earnings?
                            </button>
                         </h4>
                      </div>
                      <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                         data-parent="#accordionExample">
                         <div class="card-body">
-                           You can create any number of teams for a match. However, you can join any contest with
-                           only one unique team.
+                        You can view your affiliate earnings in the affiliate section of your user dashboard.
                         </div>
                      </div>
                   </div>
@@ -324,14 +321,14 @@
                            <button class="btn collapsed" type="button" data-bs-toggle="collapse"
                               data-bs-target="#collapseFour" aria-expanded="false"
                               aria-controls="collapseFour">
-                           Can I join same contest with multiple team?
+                              When do I get paid?
                            </button>
                         </h4>
                      </div>
                      <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                         data-parent="#accordionExample">
                         <div class="card-body">
-                           <p>No.You can join one contest with one team.
+                           <p>Your earnings through gaming referrals are credited to your Affiliate wallet as soon as your affiliates play the games. Once you accumulate at least $10 worth of affiliate earnings, you can transfer them to your wallet at any time.
                            </p>
                         </div>
                      </div>
@@ -343,15 +340,14 @@
                            <button class="btn collapsed" type="button" data-bs-toggle="collapse"
                               data-bs-target="#collapsefive" aria-expanded="false"
                               aria-controls="collapsefive">
-                           If there is no upcoming match which we cover.
+                              Where can I find my affiliate link?
                            </button>
                         </h4>
                      </div>
                      <div id="collapsefive" class="collapse" aria-labelledby="headingfive"
                         data-parent="#accordionExample">
                         <div class="card-body">
-                           You can create any number of teams for a match. However, you can join any contest with
-                           only one unique team.
+                        Your affiliate link can be found on your user dashboard.
                         </div>
                      </div>
                   </div>
@@ -361,14 +357,86 @@
                            <button class="btn collapsed" type="button" data-bs-toggle="collapse"
                               data-bs-target="#collapsesix" aria-expanded="false"
                               aria-controls="collapsesix">
-                           Can I join same contest with multiple team?
+                              What countries should I target when looking for referrals?
                            </button>
                         </h4>
                      </div>
                      <div id="collapsesix" class="collapse" aria-labelledby="headingsix"
                         data-parent="#accordionExample">
                         <div class="card-body">
-                           <p>No.You can join one contest with one team.
+                           <p>CARO11 is a global Fantasy cricket gaming platform loved by cricket enthusiasts in over 80+ countries. You can target any market, whether it's local, regional, national, or global. However, our user base is primarily from cricket-playing countries like India, England, New Zealand, South Africa, Australia, Pakistan, Bangladesh, Sri Lanka, West Indies, Afghanistan, Ireland, Zimbabwe, Netherlands, Oman, Scotland, Nepal, Namibia, United Arab Emirates, and the USA.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="card">
+                     <div class="card-header" id="headingseven">
+                        <h4 class="mb-0">
+                           <button class="btn collapsed" type="button" data-bs-toggle="collapse"
+                              data-bs-target="#headingseven" aria-expanded="false"
+                              aria-controls="headingseven">
+                              Can I earn a commission if someone I recommended CARO11 to registered without using my link?
+                           </button>
+                        </h4>
+                     </div>
+                     <div id="headingseven" class="collapse" aria-labelledby="headingseven"
+                        data-parent="#accordionExample">
+                        <div class="card-body">
+                           <p>Unfortunately, no. Affiliate earnings are only possible from users who sign up through your unique affiliate link.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="card">
+                     <div class="card-header" id="headingeight">
+                        <h4 class="mb-0">
+                           <button class="btn collapsed" type="button" data-bs-toggle="collapse"
+                              data-bs-target="#headingeight" aria-expanded="false"
+                              aria-controls="headingeight">
+                              Should I recommend CARO11 as a way to play games on my gaming or related social media channel?
+                           </button>
+                        </h4>
+                     </div>
+                     <div id="headingeight" class="collapse" aria-labelledby="headingeight"
+                        data-parent="#accordionExample">
+                        <div class="card-body">
+                           <p>Absolutely! If you have a gaming or related social media channel, you can recommend CARO11 as one of the easiest ways for your followers to play online games. They can sign up using your affiliate link, and every time they play games on CARO11, you earn affiliate income.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="card">
+                     <div class="card-header" id="headingnine">
+                        <h4 class="mb-0">
+                           <button class="btn collapsed" type="button" data-bs-toggle="collapse"
+                              data-bs-target="#headingnine" aria-expanded="false"
+                              aria-controls="headingnine">
+                              Are earnings through referrals capped?
+                           </button>
+                        </h4>
+                     </div>
+                     <div id="headingnine" class="collapse" aria-labelledby="headingnine"
+                        data-parent="#accordionExample">
+                        <div class="card-body">
+                           <p>No, there are no caps on daily earnings through referrals.
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="card">
+                     <div class="card-header" id="headingten">
+                        <h4 class="mb-0">
+                           <button class="btn collapsed" type="button" data-bs-toggle="collapse"
+                              data-bs-target="#headingten" aria-expanded="false"
+                              aria-controls="headingten">
+                              How can I earn more through the CARO11 Super7 Affiliate Program?
+                           </button>
+                        </h4>
+                     </div>
+                     <div id="headingten" class="collapse" aria-labelledby="headingten"
+                        data-parent="#accordionExample">
+                        <div class="card-body">
+                           <p>To earn more through the Super7 Affiliate program, it's recommended to enhance and regularize content around CARO11 on your social media channels. Share your affiliate links with the community as much as possible to achieve better results and maximize your earnings.
                            </p>
                         </div>
                      </div>
