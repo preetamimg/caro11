@@ -7,5 +7,5 @@
    } else if ($_SERVER['HTTP_HOST'] == '143.110.184.198') {
       define('SCRIPT_ROOT', 'http://143.110.184.198/Caro11/');
    } else {
-      define('SCRIPT_ROOT', 'https://caro11.com/');
+      define('SCRIPT_ROOT', 'http://143.110.244.110/Caro11/');
    }

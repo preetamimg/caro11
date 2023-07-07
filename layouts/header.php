@@ -28,7 +28,6 @@
                         <li><a href="<?php echo SCRIPT_ROOT ?>how-to-play">How To Play</a></li>
                     </ul>
                     <a class="comman_button shadow" href="javascript:;"><i class="fab fa-android me-2"></i>Download App</a>
-                    <a class="comman_button shadow" href="https://www.dream2earn.com/"><i class="fab fa-android me-2"></i>DreamLudo</a>
                 </div>
             </div>
         </div>

@@ -1,4 +1,20 @@
 @media (max-width: 1300px) {
+  .referCard{
+    & .cardEarnSection{
+ 
+      & .referImg{
+  
+      }
+      & .cardContent{
+        & .earnheading{
+
+        }
+        & .pera{
+   
+        }
+      }
+    }
+  }
 }
 
 @media (max-width: 1199px) {
@@ -23,6 +39,63 @@
       }
     }
   }
+  .refer_earn{
+
+    & .hero_content{
+      & .main-heading{
+        font-size: 34px;
+        line-height: 116%;
+    
+        & span{
+        
+        }
+      }
+      & .sms-div{
+          & .phoneInput{
+            height: 57px;
+
+            & .input-group{
+              & .form-control {
+
+  
+              &::placeholder{
+              
+              }
+              }
+              & .input-group-text{
+              }
+            }
+          }
+        }
+        & .herobtn{
+          padding: 17px;
+        }
+    }
+    & .heroImg{
+      max-width: 600px;
+    }
+  }
+
+  .referCard{
+    & .cardEarnSection{
+ 
+      & .cardContent{
+        & .referImg{
+    
+        }
+        & .earnheading{
+          font-size: 26px;
+          line-height: 33px;
+          padding: 0px 0px 28px 0px;
+        }
+        & .pera{
+          font-size: 18px;
+          line-height: 139%;
+        }
+      }
+    }
+  }
+
 }
 
 @media (max-width: 1023px) {
@@ -64,6 +137,62 @@
       }
     }
   }
+
+  .refer_earn{
+
+    & .hero_content{
+      & .main-heading{
+
+        & span{
+        
+        }
+      }
+      & .sms-div{
+          & .phoneInput{
+       
+            & .input-group{
+              & .form-control {
+
+  
+              &::placeholder{
+              
+              }
+              }
+              & .input-group-text{
+                padding-left: 263px;
+              }
+            }
+          }
+        }
+        & .herobtn{
+       
+        }
+    }
+    & .heroImg{
+      max-width: 600px;
+    }
+  }
+
+  .referCard{
+    & .cardEarnSection{
+      padding: 20px 20px;
+      & .cardContent{
+        & .referImg{
+    
+        }
+        & .earnheading{
+          font-size: 20px;
+          line-height: 27px;
+          padding: 0px 0px 23px 0px;
+        }
+        & .pera{
+          font-size: 14px;
+          line-height: 135%;
+        }
+      }
+    }
+  }
+
   .comman_button {
     font-size: 11px;
     padding: 8px 18px;
@@ -242,6 +371,63 @@
       }
     }
   }
+
+  .refer_earn{
+
+    & .hero_content{
+      & .main-heading{
+        font-size: 29px;
+        line-height: 114%;
+        & span{
+        
+        }
+      }
+      & .sms-div{
+          & .phoneInput{
+            height: 53px;
+            & .input-group{
+              & .form-control {
+
+  
+              &::placeholder{
+              
+              }
+              }
+              & .input-group-text{
+                padding-left: 183px;
+              }
+            }
+          }
+        }
+        & .herobtn{
+          padding: 15px;
+          margin-bottom: 0px;
+          margin-top: 0;
+        }
+    }
+    & .heroImg{
+      max-width: 600px;
+    }
+  }
+
+ .referCard{
+    & .cardEarnSection{
+ 
+      & .referImg{
+        height: 275px;
+        width: 275px;
+      }
+      & .cardContent{
+        & .earnheading{
+          padding: 0px 0px 14px 0px;
+        }
+        & .pera{
+   
+        }
+      }
+    }
+  }
+
   section {
     padding: 35px 0;
   }
@@ -330,5 +516,110 @@
   }
   .comman_section {
     padding: 100px 0 60px;
+  }
+}
+@media (max-width: 567px) {
+  .refer_earn{
+
+    & .hero_content{
+      & .main-heading{
+        
+    font-size: 24px;
+    line-height: 103%;
+
+        & span{
+        
+        }
+      }
+      & .sms-div{
+          & .phoneInput{
+            height: 45px;
+            & .input-group{
+              & .form-control {
+
+  
+              &::placeholder{
+              
+              }
+              }
+              & .input-group-text{
+                
+              padding-left: 128px;
+
+              }
+            }
+          }
+        }
+        & .herobtn{
+          font-size: 13px;
+          padding: 10px;
+        }
+    }
+    & .heroImg{
+      max-width: 600px;
+    }
+  }
+
+  .referCard{
+    & .cardEarnSection{
+ 
+      & .cardContent{
+        & .referImg{
+    
+        }
+        & .earnheading{
+          font-size: 18px;
+        line-height: 24px;
+        font-weight: 400;
+
+        }
+        & .pera{
+          font-size: 13px;
+          line-height: 130%;
+          font-weight: 300;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 450px) {
+  .refer_earn{
+
+    & .hero_content{
+      & .main-heading{
+        font-size: 16px;
+        line-height: 98%;
+
+
+        & span{
+        
+        }
+      }
+      & .sms-div{
+          & .phoneInput{
+            height: 39px;
+            & .input-group{
+              & .form-control {
+
+  
+              &::placeholder{
+              
+              }
+              }
+              & .input-group-text{
+                padding-left: 50px;
+
+              }
+            }
+          }
+        }
+        & .herobtn{
+          padding: 8px;
+        }
+    }
+    & .heroImg{
+     
+    }
   }
 }
