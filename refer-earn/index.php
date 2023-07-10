@@ -1,8 +1,9 @@
 <?php include '../layouts/header-link.php' ?>
 <?php include '../layouts/header.php' ?>
    <main>
-      <div class="comman_section pb-0">
+      <div class="pb-0" >
          <div class="container-fluid refer_earn">
+         <div class="hero-bg-inner gradient-bg"></div>
          <div class="container pt-4">
          <div class="row py-lg-4 py-3 align-items-center gap-lg-0 gap-3">
             <div class="col-xl-5 col-lg-6 order-lg-1 order-2">
@@ -19,7 +20,7 @@
                      </div>
                   </div>
                   <div class="col-12 px-0 ">
-                     <a href="javascript:;" class="mt-1 w-100 text-decoration-none d-flex align-items-center justify-content-center  herobtn">Get Download Link</a>
+                     <a href="javascript:;" class="mt-1 w-100 text-decoration-none d-flex align-items-center justify-content-center comman_button herobtn">Get Download Link</a>
                   </div>
                   <div class="col-12 mt-4 px-0">
                      <img src="./../assets/img/RatingsNew.png" alt="rating" class="img-fluid w-100 h-100">
@@ -186,6 +187,6 @@
 
 <script>
    $(function() {
-   	$('.header').addClass('Header_inner');
+   	// $('.header').addClass('Header_inner');
    });
 </script>
