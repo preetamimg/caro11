@@ -1,7 +1,7 @@
 <?php include '../layouts/header-link.php' ?>
 <?php include '../layouts/header.php' ?>
    <main>
-      <div class="comman_section pb-0" style="  background-color: rgb(0, 0, 0);">
+      <div class="comman_section pb-0">
          <div class="container-fluid refer_earn">
          <div class="container pt-4">
          <div class="row py-lg-4 py-3 align-items-center gap-lg-0 gap-3">
